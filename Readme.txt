@@ -55,6 +55,7 @@ http://sourceforge.jp/projects/opensource/wiki/licenses%252FGNU_General_Public_L
 **履歴
 -2007.09.22	ver.0.1	とりあえず。
 -2009-002-27	ver.0.2	InDesign CS4で動作確認。対象約物がタブ、全角スペースと隣接する場合、カーニング対象外とした。未チェックの約物が対象約物と隣接するとき、カーニング対象外とした。中点類が２個以上連続するとき、正しくカーニングするようにした。
+-2009-04-24	ver.0.2.1	ダイアログを出す前にUserInteractionLevels.interactWithAllとした。
 
 
 市川せうぞー
